@@ -1,3 +1,9 @@
-for countdown in range(5, 0, -1):
-    print(countdown)
-print("Hi")
+spells = [
+    "yjy",
+    "jha",
+    "thk",
+    "tgk",
+    "jhr",
+    "ycy",
+    ]
+print(spells[4])
