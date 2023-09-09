@@ -1,9 +1,8 @@
-spells = [
-    "yjy",
-    "jha",
-    "thk",
-    "tgk",
-    "jhr",
-    "ycy",
-    ]
-print(spells[4])
+teacher = {
+    "Kim": "python",
+    "Park": "statistics",
+    "Lee": "mathmatics",
+    }
+lecturer = "Lee"
+print(lecturer, ":", teacher[lecturer])
+
