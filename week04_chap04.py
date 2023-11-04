@@ -1,4 +1,4 @@
-vowels = ['a','e','i','o','u']
+vowels = ['a', 'e', 'i', 'o', 'u']
 letter = input("input alphabet letter : ")
 if letter in vowels:
     print(f"{letter} is a vowel~")

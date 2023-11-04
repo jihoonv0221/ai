@@ -1,7 +1,7 @@
 a = [1, 9, 11]
-b= a
-print(a,b)
+b = a
+print(a, b)
 a[1] = 55
-print(a,b)  # b가 창조하는 객체와 a가 창조하는 객체가 같다
+print(a, b)  # b가 창조하는 객체와 a가 창조하는 객체가 같다
 b[-1] = "Python"
-print(a,b)
+print(a, b)
