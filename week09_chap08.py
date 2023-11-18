@@ -1,4 +1,5 @@
-subjects = dict(pYthon=5, java=9)
+subjects = (['python', 5],['java', 9])
+subjects = dict(subjects)
 
 print(subjects)
 print(subjects['java'])
